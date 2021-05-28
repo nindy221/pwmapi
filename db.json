@@ -1,0 +1,24 @@
+{
+"produk" : [
+{"id":1,"nama":"Pepper - Chipotle, Canned","kategori":"Aquamarine"},
+{"id":2,"nama":"Soup - Campbells Pasta Fagioli","kategori":"Crimson"},
+{"id":3,"nama":"Lemons","kategori":"Fuscia"},
+{"id":4,"nama":"Paper Towel Touchless","kategori":"Turquoise"},
+{"id":5,"nama":"Corn - Mini","kategori":"Teal"},
+{"id":6,"nama":"Rum - Coconut, Malibu","kategori":"Pink"},
+{"id":7,"nama":"Dates","kategori":"Yellow"},
+{"id":8,"nama":"Apple - Custard","kategori":"Red"},
+{"id":9,"nama":"Basil - Fresh","kategori":"Indigo"},
+{"id":10,"nama":"Shrimp - Prawn","kategori":"Red"},
+{"id":11,"nama":"Salt - Sea","kategori":"Red"},
+{"id":12,"nama":"Chocolate - White","kategori":"Puce"},
+{"id":13,"nama":"Gatorade - Orange","kategori":"Khaki"},
+{"id":14,"nama":"Spic And Span All Purpose","kategori":"Purple"},
+{"id":15,"nama":"Cake - Night And Day Choclate","kategori":"Khaki"},
+{"id":16,"nama":"Propel Sport Drink","kategori":"Goldenrod"},
+{"id":17,"nama":"Pears - Fiorelle","kategori":"Orange"},
+{"id":18,"nama":"Beans - Fine","kategori":"Violet"},
+{"id":19,"nama":"Tomatoes - Heirloom","kategori":"Maroon"},
+{"id":20,"nama":"Salt - Rock, Course","kategori":"Turquoise"}
+]
+}
